@@ -17,7 +17,7 @@ Copy `95-battery.rules` to `/etc/udev/rules.d/95-battery.rules`. Make sure that 
 ## Module
 
 ```ini
-[module/battery-combined-udev]
+[module/battery-combined-ramp-udev]
 type = custom/script
 exec = ~/polybar-scripts/battery-combined-ramp-udev.sh
 tail = true
