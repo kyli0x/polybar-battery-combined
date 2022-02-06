@@ -6,8 +6,9 @@ It supports two rechargeable batteries and changing icons. It works even if only
 
 This script is able to display power supply changes in real time. For this udev is being used.
 
-I added a loop that shows a set of differnt icons when charging your device.
+I also added a loop that shows a set of differnt icons when charging your device.
 
+![](https://github.com/kyli0x/polybar-battery-combined/blob/main/battery.gif)
 
 ## Configuration
 
